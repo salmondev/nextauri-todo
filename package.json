@@ -21,13 +21,13 @@
     "@tauri-apps/plugin-shell": "^2.2.0",
     "next": "^15.1.7",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^2.2.7",
     "@types/node": "^22.13.4",
     "@types/react": "^19.0.9",
-    "@types/react-dom": "^19.0.3",
+    "@types/react-dom": "^19.1.1",
     "eslint": "^9.20.1",
     "eslint-config-next": "^15.1.7",
     "typescript": "^5.7.3"
